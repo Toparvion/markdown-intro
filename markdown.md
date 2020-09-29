@@ -41,7 +41,7 @@ desription: 'Краткий экскурс в человечный язык ра
 
 ---
 
-*Но есть и позитивные примеры…*
+*Но есть и позитивные [примеры](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/)…*
 
 ---
 
@@ -297,7 +297,7 @@ $addr =~ s{(.)}{
 #### Presentations & Slides
 
 * [Marp](https://marp.app/)
-  А эти слайды откуда? :wink:
+  А эти слайды [откуда](https://github.com/Toparvion/markdown-intro/blob/master/markdown.md)? :wink:
 * [RevealJS](https://revealjs.com/)
 * [GitPitch](https://gitpitch.com/)
 
